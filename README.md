@@ -1,7 +1,7 @@
 # Skin_Cancer_Classification
 
 ## AIM of the Project:
-This project focuses on skin cancer detection using a convolutional neural network (CNN) on a dataset comprising benign and malignant skin images. The objective is to build a model that accurately classifies skin lesions, aiding in early detection and diagnosis.
+This project focuses on skin cancer detection using a convolutional neural networks (CNN) on a dataset comprising benign and malignant skin images. The objective is to build a model that accurately classifies skin lesions, aiding in early detection and diagnosis.
 
 
 ## Data Preprocessing: 
