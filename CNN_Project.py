@@ -6,7 +6,6 @@
 ! mkdir cancerDataset
 ! unzip skin-cancer-malignant-vs-benign.zip -d cancerDataset
 
-# Import necessary libraries
 from mpl_toolkits.mplot3d import Axes3D
 from sklearn.preprocessing import StandardScaler
 import os
