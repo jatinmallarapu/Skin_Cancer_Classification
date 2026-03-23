@@ -13,7 +13,7 @@ Convolutional Neural Network (CNN): A simple CNN is constructed using TensorFlow
 ## Training and Evaluation: 
 The model is trained on the prepared dataset, utilizing early stopping to prevent overfitting. The accuracy is evaluated on the test set using the scikit-learn accuracy_score metric.
 
-## Daily Scenario Application:
+## Daily Scenario based on this Application:
 This project's application extends to real-world scenarios where an automated tool for skin cancer detection can assist dermatologists and individuals. By analyzing skin images, the model aids in identifying potential malignancies promptly, facilitating timely medical intervention and enhancing diagnostic efficiency.
 
 ## Conclusion:
