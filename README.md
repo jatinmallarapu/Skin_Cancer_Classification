@@ -8,7 +8,7 @@ This project focuses on skin cancer detection using a convolutional neural netwo
 Images are resized, converted to NumPy arrays, and normalized for further analysis.
 
 ## Models Used:
-Convolutional Neural Network (CNN): A simple CNN is constructed using TensorFlow, consisting of convolutional layers, max-pooling, and dense layers with dropout for classification.
+Convolutional Neural Network (CNN): A simple CNN is constructed using TensorFlow, consisting of convolutional layers, max-pooling, and dense layers with dropout for classification in cancer types.
 
 ## Training and Evaluation: 
 The model is trained on the prepared dataset, utilizing early stopping to prevent overfitting. The accuracy is evaluated on the test set using the scikit-learn accuracy_score metric.
